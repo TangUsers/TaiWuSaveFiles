@@ -1,14 +1,1 @@
-{
-    "_BGMVolume": 0.5,
-    "_SEVolume": 0.5,
-    "_BGMOff": false,
-    "_SEOff": false,
-    "_screenWidth": 1600,
-    "_screenheight": 900,
-    "_fullScreen": false,
-    "_showDamage": true,
-    "_showTaiwuName": true,
-    "_teachingId": 1,
-    "_teachingOff": true,
-    "_itemSortLists": [0, 1]
-}
+{"_BGMVolume":0.5,"_SEVolume":0.5,"_BGMOff":false,"_SEOff":false,"_screenWidth":1600,"_screenheight":900,"_fullScreen":false,"_showDamage":true,"_showTaiwuName":true,"_teachingId":1,"_teachingOff":true,"_itemSortLists":[0,1]}
